@@ -1,4 +1,4 @@
-# Tnstagram, Twitter, Facebookのどれにむいた写真かを評価するCNN
+# Instagram, Twitter, Facebookのどれにむいた写真かを評価するCNN
 
 デモ →　http://35.190.172.104/ 
 
